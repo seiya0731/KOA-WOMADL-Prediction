@@ -1,5 +1,6 @@
 =======================================================
-The "Raw Data" contains all source data and programs used in this study.
+
+The project contains all source data and programs used in this study.
 
 
 1. The original clinical and image data can be found in the OAI official website: https://nda.nih.gov/oai. 
